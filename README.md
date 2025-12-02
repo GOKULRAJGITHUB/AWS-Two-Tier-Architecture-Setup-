@@ -1,4 +1,4 @@
-# 🏗️ AWS Two-Tier Architecture Setup
+#  AWS Two-Tier Architecture Setup
 
 > **Secure Frontend + Backend Architecture with Public EC2 and Private MySQL Server**
 
@@ -24,6 +24,8 @@ This guide demonstrates how to set up a secure two-tier architecture on AWS with
 
 ## 📊 Architecture Diagram
 
+
+![VPC Architecture](VPC-creation.png)
 
 
 ## 🔧 Prerequisites
@@ -481,7 +483,7 @@ Should work via NAT Gateway.
 ## 👨‍💻 Author
 
 **GOKULRAJ**  
-📧 Email: rajgokul@73847@gmail.com  
+📧 Email: rajg73847@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/gokul7402/  
 
 ---
